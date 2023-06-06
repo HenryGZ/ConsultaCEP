@@ -1,0 +1,11 @@
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\bin\Debug\ConsuultaCep.exe.config
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\bin\Debug\ConsuultaCep.exe
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\bin\Debug\ConsuultaCep.pdb
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.csproj.SuggestedBindingRedirects.cache
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.Form1.resources
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.Properties.Resources.resources
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.exe
+C:\Users\henry\source\repos\ConsuultaCep\ConsuultaCep\obj\Debug\ConsuultaCep.pdb
